@@ -1,0 +1,725 @@
+[
+  {
+    "fact": "Bananas are berries, but strawberries are not.",
+    "info": "Botanically, bananas meet the criteria for berries, while strawberries do not.",
+    "source": "Britannica"
+  },
+  {
+    "fact": "Octopuses have three hearts.",
+    "info": "Two pump blood to the gills, one pumps blood to the rest of the body.",
+    "source": "Smithsonian Ocean"
+  },
+  {
+    "fact": "Honey never spoils.",
+    "info": "Archaeologists have found 3,000-year-old honey in ancient Egyptian tombs that is still edible.",
+    "source": "National Geographic"
+  },
+  {
+    "fact": "Wombat poop is cube-shaped.",
+    "info": "This unique shape helps the poop not to roll away, marking territory more effectively.",
+    "source": "BBC, National Geographic"
+  },
+  {
+    "fact": "Venus is the only planet in our Solar System that rotates clockwise.",
+    "info": "All other planets rotate counterclockwise.",
+    "source": "NASA"
+  },
+  {
+    "fact": "The Eiffel Tower can be 15 cm taller during hot days.",
+    "info": "Metal expands with heat, so the iron structure gets taller in summer.",
+    "source": "Eiffel Tower Official Site"
+  },
+  {
+    "fact": "Sharks existed before trees.",
+    "info": "Sharks date back over 400 million years, while the first trees appeared around 350 million years ago.",
+    "source": "Smithsonian Magazine"
+  },
+  {
+    "fact": "A group of flamingos is called a 'flamboyance.'",
+    "info": "Collective nouns for animals can be quite colorful!",
+    "source": "Oxford Dictionaries"
+  },
+  {
+    "fact": "The longest English word without a true vowel is 'rhythms.'",
+    "info": "It only uses the letter 'y' as a vowel sound.",
+    "source": "Oxford English Dictionary"
+  },
+  {
+    "fact": "Some turtles can breathe through their butts.",
+    "info": "Certain species, like the Australian Fitzroy River turtle, can absorb oxygen through their cloaca.",
+    "source": "Australian Museum"
+  },
+
+  {
+    "fact": "Sloths can hold their breath longer than dolphins.",
+    "info": "Sloths can slow their heart rate and hold their breath for up to 40 minutes, while dolphins typically hold their breath for around 10 minutes.",
+    "source": "Smithsonian's National Zoo"
+  },
+
+  {
+    "fact": "The fingerprints of a koala are nearly identical to humans.",
+    "info": "Koala fingerprints are so similar to human ones that they can confuse crime scene investigators.",
+    "source": "Australian Koala Foundation"
+  },
+  {
+    "fact": "Water can boil and freeze at the same time.",
+    "info": "This phenomenon is called the 'triple point' and occurs when temperature and pressure are just right for the three states of a substance (solid, liquid, and gas) to coexist in equilibrium.",
+    "source": "NASA"
+  },
+
+  {
+    "fact": "Butterflies can taste with their feet.",
+    "info": "Taste sensors on a butterfly’s feet allow it to identify whether a plant is suitable for laying eggs.",
+    "source": "Smithsonian National Museum of Natural History"
+  },
+  {
+    "fact": "The fastest tennis serve ever recorded was 163.7 mph.",
+    "info": "Australian tennis player Sam Groth achieved this record-breaking serve in 2012 at the Busan Open Challenger.",
+    "source": "Guinness World Records"
+  },
+  {
+    "fact": "The Great Wall of China is not visible from space with the naked eye.",
+    "info": "Despite the popular myth, the wall is too narrow and blends with its surroundings, making it nearly impossible to see from space.",
+    "source": "NASA"
+  },
+  {
+    "fact": "Jellyfish existed before dinosaurs.",
+    "info": "Jellyfish have been around for over 500 million years, predating dinosaurs by hundreds of millions of years.",
+    "source": "Smithsonian Ocean"
+  },
+  {
+    "fact": "The Olympic Games have been held in space.",
+    "info": "In 2021, astronauts on the International Space Station held a 'Space Olympics,' competing in zero-gravity sports like synchronized floating.",
+    "source": "NASA"
+  },
+  {
+    "fact": "There’s a basketball court inside the U.S. Supreme Court building.",
+    "info": "Located on the top floor, it’s nicknamed 'the highest court in the land.'",
+    "source": "Supreme Court Historical Society"
+  },
+  {
+    "fact": "Venus is the hottest planet in the solar system.",
+    "info": "Despite being the second planet from the Sun, Venus has a thick atmosphere of carbon dioxide that traps heat, making its surface temperature reach 900°F (475°C).",
+    "source": "NASA"
+  },
+  {
+    "fact": "Sharks do not have bones.",
+    "info": "Their skeletons are made of cartilage, the same flexible material found in human noses and ears.",
+    "source": "NOAA"
+  },
+  {
+    "fact": "Soccer is the most popular sport in the world.",
+    "info": "An estimated 4 billion people globally watch or play soccer, making it the most-followed sport.",
+    "source": "FIFA"
+  },
+  {
+    "fact": "Saturn’s moon, Titan, has rivers of liquid methane.",
+    "info": "Titan is the only place in the solar system other than Earth known to have liquid rivers, lakes, and seas on its surface.",
+    "source": "NASA"
+  },
+  {
+    "fact": "The speed of a sneeze can reach up to 100 mph.",
+    "info": "A sneeze can release thousands of tiny droplets traveling at high speeds, which is why covering your mouth is important.",
+    "source": "Harvard Medical School"
+  },
+  {
+    "fact": "The longest recorded chess game lasted 20 hours and 15 minutes.",
+    "info": "This game was played in 1989 between Ivan Nikolić and Goran Arsović and lasted 269 moves.",
+    "source": "World Chess Federation (FIDE)"
+  },
+  {
+    "fact": "The Moon is moving away from Earth.",
+    "info": "The Moon drifts about 1.5 inches farther from Earth each year due to tidal interactions.",
+    "source": "NASA"
+  },
+  {
+    "fact": "The Eiffel Tower can shrink in winter.",
+    "info": "In cold temperatures, the metal contracts, making the tower shrink by about 6 inches.",
+    "source": "Eiffel Tower Official Website"
+  },
+  {
+    "fact": "The human brain generates enough electricity to power a small light bulb.",
+    "info": "With around 86 billion neurons firing signals, the brain can produce about 20 watts of electrical power.",
+    "source": "Scientific American"
+  },
+  {
+    "fact": "Antarctica is the driest place on Earth.",
+    "info": "Despite being covered in ice, some parts of Antarctica haven’t seen rain in nearly 2 million years.",
+    "source": "National Science Foundation"
+  },
+  {
+    "fact": "The world’s smallest reptile was discovered in 2021.",
+    "info": "The Brookesia nana, a tiny chameleon species found in Madagascar, measures just 0.53 inches in length.",
+    "source": "Nature"
+  },
+  {
+    "fact": "The first Super Bowl was played in 1967.",
+    "info": "This iconic American football game was held between the Green Bay Packers and the Kansas City Chiefs, with the Packers winning 35-10.",
+    "source": "NFL"
+  },
+  {
+    "fact": "A day on Venus is longer than a year on Venus.",
+    "info": "Venus takes 243 Earth days to complete one rotation on its axis, but only 225 Earth days to orbit the Sun.",
+    "source": "NASA"
+  },
+  {
+    "fact": "Lightning strikes about 8 million times a day worldwide.",
+    "info": "This equates to about 100 lightning strikes per second across the globe.",
+    "source": "National Weather Service"
+  },
+  {
+    "fact": "The human nose can detect over 1 trillion scents.",
+    "info": "Research has shown that our sense of smell is far more sensitive than previously thought.",
+    "source": "Science Magazine"
+  },
+  {
+    "fact": "Mount Everest grows about 4 millimeters every year.",
+    "info": "This is due to the tectonic collision between the Indian and Eurasian plates.",
+    "source": "National Geographic"
+  },
+  {
+    "fact": "Canada has the most lakes of any country in the world.",
+    "info": "Canada is home to over 2 million lakes, which contain 20% of the world’s freshwater.",
+    "source": "World Atlas"
+  },
+  {
+    "fact": "Iceland is the only country without mosquitoes.",
+    "info": "Iceland's low temperatures and lack of suitable breeding grounds prevent mosquitoes from thriving.",
+    "source": "Icelandic Institute of Natural History"
+  },
+  {
+    "fact": "Africa is the only continent that is in all four hemispheres.",
+    "info": "It is situated in the Northern, Southern, Eastern, and Western Hemispheres.",
+    "source": "National Geographic"
+  },
+  {
+    "fact": "Russia spans 11 time zones.",
+    "info": "It is the largest country in the world by area, covering a vast range of time zones.",
+    "source": "World Atlas"
+  },
+  {
+    "fact": "The Sahara Desert was once a lush, green landscape.",
+    "info": "About 6,000–7,000 years ago, it had lakes, rivers, and vegetation due to a wetter climate.",
+    "source": "Smithsonian Magazine"
+  },
+  {
+    "fact": "Lake Baikal in Russia is the deepest lake in the world.",
+    "info": "It reaches a depth of 5,387 feet (1,642 meters) and holds about 20% of the world's unfrozen freshwater.",
+    "source": "UNESCO"
+  },
+  {
+    "fact": "The Amazon Rainforest produces 20% of the world's oxygen.",
+    "info": "Known as the 'lungs of the Earth,' the Amazon plays a vital role in regulating the planet’s climate.",
+    "source": "World Wildlife Fund"
+  },
+  {
+    "fact": "Antarctica is the coldest, driest, and windiest continent.",
+    "info": "It holds the record for the lowest temperature ever recorded, at −128.6°F (−89.2°C).",
+    "source": "National Science Foundation"
+  },
+  {
+    "fact": "Australia is wider than the Moon.",
+    "info": "Australia measures about 4,000 km (2,485 miles) across, while the Moon’s diameter is about 3,474 km (2,159 miles).",
+    "source": "NASA"
+  },
+  {
+    "fact": "Asia is home to the top 10 tallest mountains in the world.",
+    "info": "All of these peaks, including Mount Everest, are part of the Himalayan mountain range.",
+    "source": "National Geographic"
+  },
+  {
+    "fact": "The Dead Sea is the lowest point on Earth’s surface.",
+    "info": "It sits at about 430 meters (1,410 feet) below sea level.",
+    "source": "National Geographic"
+  },
+  {
+    "fact": "Greenland is the largest island in the world.",
+    "info": "It covers an area of about 2.16 million square kilometers (836,000 square miles).",
+    "source": "World Atlas"
+  },
+  {
+    "fact": "The Pacific Ocean is larger than all of the Earth’s landmasses combined.",
+    "info": "It spans about 63 million square miles, making it the largest ocean on Earth.",
+    "source": "NOAA"
+  },
+  {
+    "fact": "The Nile River is the longest river in the world.",
+    "info": "It stretches about 6,650 km (4,130 miles) and flows through 11 countries in Africa.",
+    "source": "National Geographic"
+  },
+  {
+    "fact": "Tokyo is the most populous city in the world.",
+    "info": "The Tokyo metropolitan area is home to over 37 million people.",
+    "source": "United Nations"
+  },
+  {
+    "fact": "The Great Barrier Reef is the largest living structure on Earth.",
+    "info": "It stretches over 2,300 kilometers (1,430 miles) off the coast of Australia and can be seen from space.",
+    "source": "UNESCO"
+  },
+  {
+    "fact": "There are 195 countries in the world.",
+    "info": "This includes 193 UN member states and 2 observer states, the Holy See and Palestine.",
+    "source": "United Nations"
+  },
+  {
+    "fact": "The city of Istanbul spans two continents.",
+    "info": "It is located on both the European and Asian sides of the Bosporus Strait, making it a transcontinental city.",
+    "source": "World Atlas"
+  },
+  {
+    "fact": "Africa is the only continent with land in all four cardinal hemispheres.",
+    "info": "It stretches from the northern to the southern hemisphere and from the eastern to the western hemisphere.",
+    "source": "National Geographic"
+  },
+  {
+    "fact": "Cleopatra lived closer in time to the moon landing than to the construction of the Great Pyramid of Giza.",
+    "info": "The Great Pyramid was built around 2560 BCE, while Cleopatra lived between 69–30 BCE. The moon landing happened in 1969 CE.",
+    "source": "Smithsonian Magazine"
+  },
+  {
+    "fact": "Oxford University is older than the Aztec Empire.",
+    "info": "Teaching at Oxford began in 1096, while the Aztec Empire was founded in 1428.",
+    "source": "Oxford University Archives"
+  },
+  {
+    "fact": "The shortest war in history lasted 38–45 minutes.",
+    "info": "The Anglo-Zanzibar War was fought on August 27, 1896, between the United Kingdom and Zanzibar.",
+    "source": "Guinness World Records"
+  },
+  {
+    "fact": "Napoleon Bonaparte was once attacked by a horde of rabbits.",
+    "info": "During a rabbit hunt arranged by his staff, the rabbits swarmed Napoleon instead of running away.",
+    "source": "History.com"
+  },
+  {
+    "fact": "The Eiffel Tower was originally intended to be dismantled after 20 years.",
+    "info": "It was saved because it proved useful as a radio transmission tower.",
+    "source": "Eiffel Tower Official Website"
+  },
+  {
+    "fact": "Julius Caesar was once kidnapped by pirates.",
+    "info": "While held for ransom, Caesar reportedly demanded the pirates increase the ransom because he claimed he was worth more.",
+    "source": "Plutarch's 'Lives'"
+  },
+  {
+    "fact": "Albert Einstein was offered the presidency of Israel in 1952.",
+    "info": "Einstein declined, stating he lacked the experience for the position.",
+    "source": "Israel Ministry of Foreign Affairs"
+  },
+  {
+    "fact": "The Great Fire of London in 1666 destroyed 80% of the city but only six people were recorded as dying.",
+    "info": "The low death toll is attributed to the fire spreading slowly enough for most residents to escape.",
+    "source": "Museum of London"
+  },
+  {
+    "fact": "The first known use of paper money was in China.",
+    "info": "It was introduced during the Tang Dynasty around the 7th century.",
+    "source": "British Museum"
+  },
+  {
+    "fact": "The guillotine was used in France until 1977.",
+    "info": "The last execution by guillotine occurred just months before France abolished the death penalty.",
+    "source": "BBC"
+  },
+  {
+    "fact": "The longest-reigning monarch in history was Louis XIV of France.",
+    "info": "He reigned for 72 years and 110 days, from 1643 to 1715.",
+    "source": "History.com"
+  },
+  {
+    "fact": "George Washington grew hemp on his farm.",
+    "info": "Hemp was commonly grown in colonial America for rope, fabric, and other materials.",
+    "source": "Mount Vernon"
+  },
+  {
+    "fact": "The Colosseum in Rome had a retractable roof.",
+    "info": "The velarium, a massive canvas awning, was used to shade spectators from the sun.",
+    "source": "Smithsonian Magazine"
+  },
+  {
+    "fact": "The Great Wall of China is not a single wall.",
+    "info": "It is a series of walls built by different dynasties over several centuries.",
+    "source": "National Geographic"
+  },
+  {
+    "fact": "The first known written recipe was for beer.",
+    "info": "It was created by the Sumerians over 5,000 years ago.",
+    "source": "Smithsonian Magazine"
+  },
+  {
+    "fact": "The Statue of Liberty was originally intended for Egypt.",
+    "info": "It was designed as a lighthouse for the Suez Canal but was rejected by Egypt due to cost.",
+    "source": "National Park Service"
+  },
+  {
+    "fact": "Genghis Khan’s empire was the largest contiguous empire in history.",
+    "info": "At its peak, it covered approximately 9.27 million square miles.",
+    "source": "History.com"
+  },
+  {
+    "fact": "Leonardo da Vinci could write with one hand while drawing with the other.",
+    "info": "This ambidextrous skill was part of his extraordinary talents.",
+    "source": "The Leonardo Museum"
+  },
+  {
+    "fact": "The first Olympic Games were held in 776 BCE in Olympia, Greece.",
+    "info": "The games originally featured only one event: a short footrace called the 'stade.'",
+    "source": "International Olympic Committee"
+  },
+  {
+    "fact": "The Titanic had a near-identical sister ship called the Olympic.",
+    "info": "The RMS Olympic served for 24 years and was retired in 1935.",
+    "source": "Titanic Historical Society"
+  },
+  {
+    "fact": "The Berlin Wall fell in 1989, but its official demolition began in 1990.",
+    "info": "The fall symbolized the end of the Cold War.",
+    "source": "BBC"
+  },
+  {
+    "fact": "The Hundred Years' War lasted 116 years.",
+    "info": "It was fought between England and France from 1337 to 1453.",
+    "source": "History.com"
+  },
+  {
+    "fact": "The Mona Lisa has no visible eyebrows.",
+    "info": "Experts believe this was either intentional or the result of over-cleaning.",
+    "source": "Louvre Museum"
+  },
+  {
+    "fact": "The first email was sent in 1971.",
+    "info": "Ray Tomlinson, a computer engineer, sent the first email to himself.",
+    "source": "Smithsonian Magazine"
+  },
+  {
+    "fact": "The Great Depression led to Monopoly becoming popular.",
+    "info": "The game provided people with a sense of financial control during tough times.",
+    "source": "History.com"
+  },
+  {
+    "fact": "The Library of Alexandria was one of the largest libraries in the ancient world.",
+    "info": "It housed an estimated 400,000 to 700,000 scrolls.",
+    "source": "Smithsonian Magazine"
+  },
+  {
+    "fact": "Stonehenge was built over 5,000 years ago.",
+    "info": "It was constructed in phases over several centuries starting around 3000 BCE.",
+    "source": "English Heritage"
+  },
+  {
+    "fact": "The U.S. purchased Alaska from Russia for $7.2 million.",
+    "info": "The purchase, in 1867, was known as 'Seward’s Folly' until gold was discovered there.",
+    "source": "Library of Congress"
+  },
+  {
+    "fact": "Ancient Romans used urine to whiten their teeth.",
+    "info": "The ammonia in urine was a natural cleaning agent.",
+    "source": "Smithsonian Magazine"
+  },
+  {
+    "fact": "The Wright brothers’ first flight lasted 12 seconds.",
+    "info": "It covered a distance of 120 feet in Kitty Hawk, North Carolina, in 1903.",
+    "source": "Wright Brothers National Memorial"
+  },
+  {
+    "fact": "The Black Death killed an estimated 25 million people in Europe.",
+    "info": "This was about one-third of Europe’s population during the 14th century.",
+    "source": "History.com"
+  },
+  {
+    "fact": "The Eiffel Tower was the tallest man-made structure until 1930.",
+    "info": "It was surpassed by the Chrysler Building in New York City.",
+    "source": "Eiffel Tower Official Website"
+  },
+  {
+    "fact": "The first vaccine was developed in 1796 for smallpox.",
+    "info": "Edward Jenner used material from cowpox sores to create immunity.",
+    "source": "World Health Organization"
+  },
+  {
+    "fact": "The Leaning Tower of Pisa took 199 years to build.",
+    "info": "Construction began in 1173 and was completed in 1372.",
+    "source": "UNESCO"
+  },
+  {
+    "fact": "The Roman Colosseum could hold up to 80,000 spectators.",
+    "info": "It was used for gladiatorial contests, mock sea battles, and animal hunts.",
+    "source": "Smithsonian Magazine"
+  },
+  {
+    "fact": "The Mayans used chocolate as currency.",
+    "info": "Cacao beans were highly valued and traded as money in Mesoamerican cultures.",
+    "source": "Smithsonian Magazine"
+  },
+  {
+    "fact": "The first known use of fireworks was in China.",
+    "info": "They were invented during the Tang Dynasty in the 9th century.",
+    "source": "History.com"
+  },
+  {
+    "fact": "The Great Wall of China is over 13,000 miles long.",
+    "info": "It was built to protect against invasions and raids.",
+    "source": "National Geographic"
+  },
+  {
+    "fact": "The first moon landing was in 1969.",
+    "info": "Neil Armstrong and Buzz Aldrin became the first humans to walk on the Moon during Apollo 11.",
+    "source": "NASA"
+  },
+  {
+    "fact": "The Taj Mahal was built as a mausoleum.",
+    "info": "Emperor Shah Jahan built it in memory of his wife Mumtaz Mahal.",
+    "source": "UNESCO"
+  },
+  {
+    "fact": "The Cold War never resulted in direct combat between the U.S. and the Soviet Union.",
+    "info": "It was characterized by political tension, nuclear threats, and proxy wars.",
+    "source": "History.com"
+  },
+  {
+    "fact": "The first printing press was invented by Johannes Gutenberg.",
+    "info": "The Gutenberg press revolutionized the spread of information in the 15th century.",
+    "source": "Smithsonian Magazine"
+  },
+  {
+    "fact": "The first modern Olympics were held in Athens in 1896.",
+    "info": "There were 241 athletes from 14 nations competing in 43 events.",
+    "source": "International Olympic Committee"
+  },
+  {
+    "fact": "The Berlin Wall stood for 28 years.",
+    "info": "It divided East and West Berlin from 1961 to 1989.",
+    "source": "BBC"
+  },
+  {
+    "fact": "The Magna Carta was signed in 1215.",
+    "info": "It limited the power of the monarchy and laid the foundation for modern democracy.",
+    "source": "British Library"
+  },
+  {
+    "fact": "The human body contains enough carbon to fill 9,000 pencils.",
+    "info": "Carbon is one of the key elements in the human body, making up about 18% of body mass.",
+    "source": "Royal Society of Chemistry"
+  },
+  {
+    "fact": "Your stomach gets a new lining every 3–4 days.",
+    "info": "This prevents the stomach from digesting itself due to the strong acidic environment.",
+    "source": "Johns Hopkins Medicine"
+  },
+  {
+    "fact": "The brain generates about 20 watts of electricity.",
+    "info": "This is enough to power a small light bulb.",
+    "source": "Scientific American"
+  },
+  {
+    "fact": "The average human blinks around 15–20 times per minute.",
+    "info": "That adds up to about 28,800 blinks per day.",
+    "source": "American Academy of Ophthalmology"
+  },
+  {
+    "fact": "Water makes up about 60% of an adult human body.",
+    "info": "This percentage varies based on age, gender, and hydration levels.",
+    "source": "USGS"
+  },
+  {
+    "fact": "The human nose can detect over 1 trillion different scents.",
+    "info": "This is far more than the previously estimated 10,000 scents.",
+    "source": "Science Magazine"
+  },
+  {
+    "fact": "Yawning cools down your brain.",
+    "info": "It helps regulate brain temperature and maintain alertness.",
+    "source": "Frontiers in Neuroscience"
+  },
+  {
+    "fact": "Your bones are about five times stronger than steel of the same density.",
+    "info": "They are strong and lightweight, making them ideal for supporting the body.",
+    "source": "Scientific American"
+  },
+  {
+    "fact": "The speed of a sneeze can reach up to 100 mph.",
+    "info": "Sneezes can expel thousands of droplets at high velocity.",
+    "source": "Harvard Medical School"
+  },
+  {
+    "fact": "The human heart beats over 3 billion times in an average lifetime.",
+    "info": "This is based on an average heart rate of 80 beats per minute.",
+    "source": "American Heart Association"
+  },
+  {
+    "fact": "The average human body has about 37.2 trillion cells.",
+    "info": "Each cell performs specialized functions to sustain life.",
+    "source": "Smithsonian Magazine"
+  },
+  {
+    "fact": "DNA in your cells would stretch to Pluto and back—17 times.",
+    "info": "If uncoiled, the DNA in a single cell would be about 2 meters long.",
+    "source": "National Human Genome Research Institute"
+  },
+  {
+    "fact": "The liver is the only organ that can regenerate itself.",
+    "info": "Even if up to 75% of the liver is removed, it can grow back to its original size.",
+    "source": "Johns Hopkins Medicine"
+  },
+  {
+    "fact": "Your brain uses about 20% of your body's oxygen and calories.",
+    "info": "Despite its small size, the brain is a highly energy-demanding organ.",
+    "source": "National Institute of Neurological Disorders and Stroke"
+  },
+  {
+    "fact": "A single human hair can support the weight of 100 grams.",
+    "info": "Keratin, the protein in hair, provides its remarkable strength.",
+    "source": "Scientific American"
+  },
+  {
+    "fact": "The small intestine is about 22 feet long.",
+    "info": "It is responsible for most of the absorption of nutrients during digestion.",
+    "source": "Cleveland Clinic"
+  },
+  {
+    "fact": "Your blood travels about 12,000 miles every day.",
+    "info": "This is equivalent to half the circumference of the Earth.",
+    "source": "American Heart Association"
+  },
+  {
+    "fact": "The average person produces enough saliva in a lifetime to fill two swimming pools.",
+    "info": "Saliva plays a key role in digestion and oral health.",
+    "source": "National Institutes of Health"
+  },
+  {
+    "fact": "The human eye can distinguish about 10 million different colors.",
+    "info": "This ability varies slightly from person to person.",
+    "source": "American Academy of Ophthalmology"
+  },
+  {
+    "fact": "Your skin sheds about 1.5 pounds of dead cells each year.",
+    "info": "The skin is constantly renewing itself, making it the largest organ of the body.",
+    "source": "American Academy of Dermatology"
+  },
+  {
+    "fact": "The human body has about 100,000 miles of blood vessels.",
+    "info": "If lined up end to end, they could circle the Earth four times.",
+    "source": "National Geographic"
+  },
+  {
+    "fact": "Babies have about 300 bones at birth, but adults have only 206.",
+    "info": "Some bones fuse together as the body grows.",
+    "source": "Cleveland Clinic"
+  },
+  {
+    "fact": "The human brain contains about 86 billion neurons.",
+    "info": "These neurons communicate through trillions of connections called synapses.",
+    "source": "National Institute of Neurological Disorders and Stroke"
+  },
+  {
+    "fact": "Your body has more bacterial cells than human cells.",
+    "info": "The human microbiome contains trillions of bacteria, which are vital for health.",
+    "source": "National Institutes of Health"
+  },
+  {
+    "fact": "The tongue is the strongest muscle in the human body relative to its size.",
+    "info": "It is also the only muscle attached at one end.",
+    "source": "Smithsonian Magazine"
+  },
+  {
+    "fact": "You can’t tickle yourself because your brain predicts the sensation.",
+    "info": "The cerebellum cancels out the sensation caused by your own movements.",
+    "source": "Nature Neuroscience"
+  },
+  {
+    "fact": "The left lung is smaller than the right lung.",
+    "info": "This is to make space for the heart.",
+    "source": "American Lung Association"
+  },
+  {
+    "fact": "The average human brain weighs about 3 pounds.",
+    "info": "It is made up of about 75% water.",
+    "source": "Cleveland Clinic"
+  },
+  {
+    "fact": "Your body contains about 0.2 milligrams of gold.",
+    "info": "Most of this gold is found in your blood.",
+    "source": "Smithsonian Magazine"
+  },
+  {
+    "fact": "The hardest substance in the human body is tooth enamel.",
+    "info": "It is even stronger than bone.",
+    "source": "American Dental Association"
+  },
+  {
+    "fact": "Humans share about 60% of their DNA with bananas.",
+    "info": "This highlights common ancestry with all living organisms.",
+    "source": "National Human Genome Research Institute"
+  },
+  {
+    "fact": "Your ears and nose never stop growing.",
+    "info": "This is due to cartilage continuing to grow and gravity causing them to sag.",
+    "source": "BBC Science Focus"
+  },
+  {
+    "fact": "The average person walks the equivalent of five times around the Earth in their lifetime.",
+    "info": "This is based on an average of 7,500 steps per day over 80 years.",
+    "source": "American Podiatric Medical Association"
+  },
+  {
+    "fact": "Human teeth are as strong as shark teeth.",
+    "info": "They are made of similar materials and have a comparable hardness.",
+    "source": "National Geographic"
+  },
+  {
+    "fact": "The appendix might not be useless after all.",
+    "info": "It plays a role in gut immunity and maintaining healthy gut bacteria.",
+    "source": "Duke University Medical Center"
+  },
+  {
+    "fact": "The human stomach can stretch to hold about 1 liter of food.",
+    "info": "That’s roughly the size of a football.",
+    "source": "Cleveland Clinic"
+  },
+  {
+    "fact": "Humans glow in the dark, but it's invisible to the naked eye.",
+    "info": "This is due to the natural emission of bioluminescent light from metabolic reactions.",
+    "source": "PLOS One Journal"
+  },
+  {
+    "fact": "Your nails grow faster on your dominant hand.",
+    "info": "This is likely due to increased blood flow from frequent use.",
+    "source": "American Academy of Dermatology"
+  },
+  {
+    "fact": "The average adult has about 5 liters of blood.",
+    "info": "Blood makes up about 7–8% of body weight.",
+    "source": "American Red Cross"
+  },
+  {
+    "fact": "The human body produces about 25 million new cells every second.",
+    "info": "This process is essential for growth, repair, and survival.",
+    "source": "National Institutes of Health"
+  },
+  {
+    "fact": "The human brain can process images in as little as 13 milliseconds.",
+    "info": "This makes vision one of the fastest senses.",
+    "source": "Massachusetts Institute of Technology"
+  },
+  {
+    "fact": "Your sense of taste is 80% dependent on your sense of smell.",
+    "info": "This is why food tastes bland when you have a cold.",
+    "source": "American Academy of Otolaryngology"
+  },
+  {
+    "fact": "Goosebumps are a leftover evolutionary response.",
+    "info": "They helped our ancestors appear larger when threatened.",
+    "source": "Harvard University"
+  },
+  {
+    "fact": "The cornea is the only part of the body without a blood supply.",
+    "info": "It gets oxygen directly from the air.",
+    "source": "American Academy of Ophthalmology"
+  },
+  {
+    "fact": "Human bones are constantly being broken down and rebuilt.",
+    "info": "The entire skeleton is replaced roughly every 10 years.",
+    "source": "National Institutes of Health"
+  }
+]
