@@ -10,11 +10,6 @@
     "source": "Smithsonian Ocean"
   },
   {
-    "fact": "Honey never spoils.",
-    "info": "Archaeologists have found 3,000-year-old honey in ancient Egyptian tombs that is still edible.",
-    "source": "National Geographic"
-  },
-  {
     "fact": "Wombat poop is cube-shaped.",
     "info": "This unique shape helps the poop not to roll away, marking territory more effectively.",
     "source": "BBC, National Geographic"
@@ -721,5 +716,1035 @@
     "fact": "Human bones are constantly being broken down and rebuilt.",
     "info": "The entire skeleton is replaced roughly every 10 years.",
     "source": "National Institutes of Health"
+  },
+  {
+    "fact": "Honey properly sealed can last for thousands of years.",
+    "info": "Low water activity and acidity inhibit spoilage; edible honey found in tombs.",
+    "source": "Smithsonian Magazine"
+  },
+  {
+    "fact": "Sea otters often hold paws while resting.",
+    "info": "Rafting behavior helps prevent individuals from drifting apart.",
+    "source": "Monterey Bay Aquarium"
+  },
+  {
+    "fact": "Koala fingerprints closely resemble human fingerprints.",
+    "info": "Under microscopy they can be hard to distinguish from human prints.",
+    "source": "Australian Federal Police"
+  },
+  {
+    "fact": "Lightning is hotter than the surface of the Sun.",
+    "info": "Lightning can reach ~30,000 K; the Sun’s photosphere is ~5,800 K.",
+    "source": "U.S. National Weather Service"
+  },
+  {
+    "fact": "Saturn would float in a sufficiently large ocean.",
+    "info": "Its average density is less than water.",
+    "source": "NASA"
+  },
+  {
+    "fact": "Turritopsis dohrnii is nicknamed the 'immortal jellyfish.'",
+    "info": "It can revert its adult cells to a juvenile state after stress.",
+    "source": "Proceedings of the National Academy of Sciences"
+  },
+  {
+    "fact": "Peregrine falcons are the fastest animals on Earth.",
+    "info": "Stooping dives can exceed 320 km/h (200 mph).",
+    "source": "Cornell Lab of Ornithology"
+  },
+  {
+    "fact": "Peanuts are legumes, not true nuts.",
+    "info": "They develop in pods underground like peas and beans.",
+    "source": "U.S. Department of Agriculture"
+  },
+  {
+    "fact": "Tomatoes are fruits botanically and vegetables legally (in the U.S.).",
+    "info": "Nix v. Hedden (1893) classified them as vegetables for tariffs.",
+    "source": "U.S. Supreme Court"
+  },
+  {
+    "fact": "A day on Venus is longer than a year on Venus.",
+    "info": "Venus rotates once every ~243 Earth days and orbits the Sun in ~225.",
+    "source": "NASA"
+  },
+  {
+    "fact": "Mantis shrimp can detect polarized light and many color channels.",
+    "info": "Some species have about a dozen photoreceptor types.",
+    "source": "University of Bristol"
+  },
+  {
+    "fact": "Platypuses are venomous.",
+    "info": "Males have spurs that deliver venom during breeding season.",
+    "source": "Australian Museum"
+  },
+  {
+    "fact": "Some turtles can absorb oxygen through their cloaca.",
+    "info": "Cloacal respiration aids overwintering in low-oxygen water.",
+    "source": "University of Guelph"
+  },
+  {
+    "fact": "Jupiter’s Great Red Spot is a centuries-old storm.",
+    "info": "It has been continuously observed since at least the 1800s and likely longer.",
+    "source": "NASA Jet Propulsion Laboratory"
+  },
+  {
+    "fact": "The 'first computer bug' was an actual moth.",
+    "info": "Engineers documented a moth in the Harvard Mark II in 1947.",
+    "source": "Smithsonian National Museum of American History"
+  },
+  {
+    "fact": "Cleopatra lived closer to the Moon landing than to the building of the Great Pyramid.",
+    "info": "Cleopatra died in 30 BCE; the Great Pyramid dates to ~2560 BCE; Moon landing was 1969 CE.",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "fact": "Elephants are the only mammals that can’t jump.",
+    "info": "Their limb structure and mass preclude all four feet leaving the ground simultaneously.",
+    "source": "Smithsonian’s National Zoo"
+  },
+  {
+    "fact": "Crows can recognize human faces and remember them.",
+    "info": "Experiments show long-term memory of threatening individuals.",
+    "source": "University of Washington"
+  },
+  {
+    "fact": "Ravens can plan for future tool use.",
+    "info": "Studies show they barter and save tools for later tasks.",
+    "source": "Science (AAAS)"
+  },
+  {
+    "fact": "Bats are the only mammals capable of sustained flight.",
+    "info": "Flying squirrels glide; bats truly fly with powered wingbeats.",
+    "source": "Bat Conservation International"
+  },
+  {
+    "fact": "Mosquitoes are the deadliest animals to humans.",
+    "info": "They transmit diseases including malaria, dengue, and Zika.",
+    "source": "World Health Organization"
+  },
+  {
+    "fact": "Antarctica is the world’s largest desert.",
+    "info": "Defined by precipitation, not sand; it is extremely dry and cold.",
+    "source": "U.S. Geological Survey"
+  },
+  {
+    "fact": "Russia spans 11 time zones.",
+    "info": "It is the country with the most time zones by count.",
+    "source": "Timeanddate.com"
+  },
+  {
+    "fact": "Carrots were originally purple and yellow before orange became common.",
+    "info": "Orange cultivars popularized in the Netherlands in the 16th–17th centuries.",
+    "source": "Royal Horticultural Society"
+  },
+  {
+    "fact": "Water expands when it freezes.",
+    "info": "Ice is about 9% less dense than liquid water, causing expansion.",
+    "source": "NOAA"
+  },
+  {
+    "fact": "A circle encloses the largest area for a given perimeter.",
+    "info": "This is the isoperimetric inequality in geometry.",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "fact": "The observable universe contains roughly 10^80 atoms.",
+    "info": "Order-of-magnitude estimate used in cosmology (Eddington number scale).",
+    "source": "NASA"
+  },
+  {
+    "fact": "The number of possible chess games is astronomically large.",
+    "info": "Claude Shannon estimated a lower bound around 10^120 possible games.",
+    "source": "Bell Labs (Claude Shannon, 1950)"
+  },
+  {
+    "fact": "Neutron star matter is extraordinarily dense.",
+    "info": "A teaspoon would weigh billions of tons on Earth.",
+    "source": "NASA Goddard Space Flight Center"
+  },
+  {
+    "fact": "GPS works because of Einstein’s relativity.",
+    "info": "Satellites adjust for time dilation from speed and weaker gravity.",
+    "source": "U.S. National Institute of Standards and Technology"
+  },
+  {
+    "fact": "Pringles’ inventor had part of his ashes buried in a Pringles can.",
+    "info": "Frederic Baur’s family honored his request in 2008.",
+    "source": "Time Magazine"
+  },
+  {
+    "fact": "The blue whale is the largest animal ever known.",
+    "info": "Adults can exceed 25 meters and 150 metric tons.",
+    "source": "NOAA Fisheries"
+  },
+  {
+    "fact": "Owls can rotate their heads up to 270 degrees.",
+    "info": "Specialized vertebrae and blood vessel adaptations enable this range.",
+    "source": "Johns Hopkins Medicine"
+  },
+  {
+    "fact": "A group of flamingos is called a 'flamboyance.'",
+    "info": "Collective noun used in ornithology and popular references.",
+    "source": "Merriam-Webster"
+  },
+  {
+    "fact": "Dolphins call each other by 'names.'",
+    "info": "They use unique signature whistles to identify individuals.",
+    "source": "Proceedings of the National Academy of Sciences"
+  },
+  {
+    "fact": "Butterflies taste with their feet.",
+    "info": "Chemoreceptors on tarsi help locate host plants.",
+    "source": "Smithsonian Institution"
+  },
+  {
+    "fact": "Hedgehogs are immune to many snake venoms.",
+    "info": "Serum factors confer partial resistance to certain venoms.",
+    "source": "University of Oxford"
+  },
+  {
+    "fact": "Caterpillars partially digest into a 'soup' during metamorphosis.",
+    "info": "Larval tissues break down; imaginal discs build adult structures.",
+    "source": "Scientific American"
+  },
+  {
+    "fact": "Domestic cats can’t taste sweetness.",
+    "info": "They lack functional sweet taste receptor genes (Tas1r2).",
+    "source": "Monell Chemical Senses Center"
+  },
+  {
+    "fact": "A day on Mars is only about 40 minutes longer than on Earth.",
+    "info": "A Martian sol is ~24 hours 39 minutes.",
+    "source": "NASA"
+  },
+  {
+    "fact": "The Moon is slowly drifting away from Earth.",
+    "info": "It recedes by about 3.8 cm per year.",
+    "source": "Lunar Laser Ranging Experiment (NASA)"
+  },
+  {
+    "fact": "The 'Wow!' signal remains an unsolved SETI mystery.",
+    "info": "A strong narrowband radio signal detected in 1977 has not repeated.",
+    "source": "Ohio State University / SETI Institute"
+  },
+  {
+    "fact": "There are more trees on Earth than stars in the Milky Way.",
+    "info": "~3 trillion trees vs. ~100–400 billion Milky Way stars (estimates).",
+    "source": "Nature (2015)"
+  },
+  {
+    "fact": "Venus spins in the opposite direction to most planets.",
+    "info": "It has a retrograde rotation; the Sun appears to rise in the west there.",
+    "source": "ESA"
+  },
+  {
+    "fact": "The highest waterfall fully within the ocean is beneath the Denmark Strait.",
+    "info": "Cold dense water cascades ~3.5 km downward along the seafloor.",
+    "source": "National Ocean Service (NOAA)"
+  },
+  {
+    "fact": "Ants don’t have lungs.",
+    "info": "They exchange gases through spiracles and tracheal tubes.",
+    "source": "University of California Agriculture and Natural Resources"
+  },
+  {
+    "fact": "Giraffes have the same number of neck vertebrae as humans.",
+    "info": "Both typically have seven cervical vertebrae, though giraffe ones are much longer.",
+    "source": "Smithsonian Institution"
+  },
+  {
+    "fact": "A group of crows is called a 'murder.'",
+    "info": "Traditional English collective noun recorded in literature.",
+    "source": "Oxford English Dictionary"
+  },
+  {
+    "fact": "Koalas are not bears; they are marsupials.",
+    "info": "They carry young in a pouch like kangaroos.",
+    "source": "Australian Museum"
+  },
+  {
+    "fact": "Hummingbirds can hover and even fly backward.",
+    "info": "Their wing motion and high metabolism enable unique flight.",
+    "source": "Cornell Lab of Ornithology"
+  },
+  {
+    "fact": "The longest English word in many dictionaries is 'pneumonoultramicroscopicsilicovolcanoconiosis.'",
+    "info": "A coined term for a type of lung disease from fine silica dust.",
+    "source": "Oxford Languages"
+  },
+  {
+    "fact": "The word 'alphabet' comes from the first two Greek letters, alpha and beta.",
+    "info": "Many languages adopted the term via Latin.",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "fact": "The first programmable mechanical computer was conceived by Charles Babbage.",
+    "info": "The Analytical Engine design included a control unit and memory.",
+    "source": "Science Museum, London"
+  },
+  {
+    "fact": "Ada Lovelace is often called the first computer programmer.",
+    "info": "Her notes on Babbage’s engine included an algorithm for Bernoulli numbers.",
+    "source": "IEEE"
+  },
+  {
+    "fact": "The University of Bologna (founded 1088) is widely regarded as the oldest university.",
+    "info": "It has operated continuously since the 11th century.",
+    "source": "University of Bologna"
+  },
+  {
+    "fact": "Vatican City is the smallest sovereign country.",
+    "info": "It covers about 44 hectares (110 acres).",
+    "source": "CIA World Factbook"
+  },
+  {
+    "fact": "Canada has the world’s longest coastline.",
+    "info": "Measured at over 200,000 km.",
+    "source": "Government of Canada"
+  },
+  {
+    "fact": "The Amazon River carries more water than any other river.",
+    "info": "It has the highest average discharge in the world.",
+    "source": "U.S. Geological Survey"
+  },
+  {
+    "fact": "Greenland is the world’s largest island not considered a continent.",
+    "info": "It is larger than any other non-continental landmass.",
+    "source": "National Geographic"
+  },
+  {
+    "fact": "The Dead Sea is one of the saltiest large bodies of water.",
+    "info": "Its salinity is about 9–10 times that of oceans, making floating easy.",
+    "source": "Israel Oceanographic and Limnological Research"
+  },
+  {
+    "fact": "Chess and checkers were both played in ancient forms thousands of years ago.",
+    "info": "Checkers traces to ancient Egypt; chess to India around the 6th century.",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "fact": "The modern marathon distance is 42.195 km (26.2 miles).",
+    "info": "Standardized after the 1908 London Olympics course.",
+    "source": "World Athletics"
+  },
+  {
+    "fact": "Walt Disney holds the record for most Academy Awards won by an individual.",
+    "info": "He won 22 competitive Oscars.",
+    "source": "Academy of Motion Picture Arts and Sciences"
+  },
+  {
+    "fact": "The Burj Khalifa is the tallest building in the world.",
+    "info": "Its height is 828 meters (2,717 feet).",
+    "source": "Council on Tall Buildings and Urban Habitat"
+  },
+  {
+    "fact": "The Beatles have the most U.S. Billboard Hot 100 number-one hits.",
+    "info": "They achieved 20 number-one singles.",
+    "source": "Billboard"
+  },
+  {
+    "fact": "The Bible is the most translated book.",
+    "info": "Portions have been translated into thousands of languages.",
+    "source": "United Bible Societies"
+  },
+  {
+    "fact": "The first SMS text message said 'Merry Christmas.'",
+    "info": "Sent in December 1992 by engineer Neil Papworth.",
+    "source": "Vodafone"
+  },
+  {
+    "fact": "Email predates the World Wide Web.",
+    "info": "Networked email was used in the early 1970s; the Web debuted in 1989–1991.",
+    "source": "Internet Society"
+  },
+  {
+    "fact": "The first product scanned with a UPC barcode was a pack of Wrigley’s gum.",
+    "info": "Scanned in an Ohio supermarket in 1974.",
+    "source": "Smithsonian Institution"
+  },
+  {
+    "fact": "King Harald 'Bluetooth' inspired the Bluetooth name and logo.",
+    "info": "The logo merges Nordic runes for H and B.",
+    "source": "Bluetooth Special Interest Group"
+  },
+  {
+    "fact": "The first successful powered airplane flight was in 1903.",
+    "info": "The Wright brothers flew at Kitty Hawk, North Carolina.",
+    "source": "National Air and Space Museum"
+  },
+  {
+    "fact": "A teaspoon of honey represents the lifetime work of roughly 12 bees.",
+    "info": "Honey production per bee is tiny; colonies produce collectively.",
+    "source": "American Beekeeping Federation"
+  },
+  {
+    "fact": "Bees can be trained to detect scents, including explosives.",
+    "info": "Their olfactory sensitivity rivals that of dogs in some tasks.",
+    "source": "U.S. Department of Defense"
+  },
+  {
+    "fact": "Pigeons can learn to distinguish words from non-words.",
+    "info": "Experiments show orthographic pattern recognition in pigeons.",
+    "source": "Proceedings of the National Academy of Sciences"
+  },
+  {
+    "fact": "Goldfish have longer memories than a few seconds.",
+    "info": "They can remember tasks and cues for months.",
+    "source": "University of Oxford"
+  },
+  {
+    "fact": "Male seahorses get 'pregnant.'",
+    "info": "Females deposit eggs into the male’s brood pouch for incubation.",
+    "source": "National Geographic"
+  },
+  {
+    "fact": "Penguins use pebbles in courtship and nest-building.",
+    "info": "Gentoo and Adélie penguins often present pebbles to mates.",
+    "source": "British Antarctic Survey"
+  },
+  {
+    "fact": "Axolotls can regenerate limbs and parts of their heart and spinal cord.",
+    "info": "They possess remarkable regenerative capabilities among vertebrates.",
+    "source": "Nature Reviews Genetics"
+  },
+  {
+    "fact": "A cockroach can live for days without its head.",
+    "info": "It breathes through spiracles; death comes from dehydration or infection.",
+    "source": "University of Massachusetts Amherst"
+  },
+  {
+    "fact": "Some frogs can freeze solid and thaw back to life.",
+    "info": "Wood frogs survive by producing cryoprotectants like glucose.",
+    "source": "University of Alaska Fairbanks"
+  },
+  {
+    "fact": "An octopus can squeeze through any gap larger than its beak.",
+    "info": "The beak is the only rigid part of its body.",
+    "source": "Monterey Bay Aquarium"
+  },
+  {
+    "fact": "New Zealand has a hill with one of the longest place names.",
+    "info": "Taumatawhakatangihangakoauauotamateapokaiwhenuakitanatahu (often shortened).",
+    "source": "New Zealand Geographic Board"
+  },
+  {
+    "fact": "Mount Everest grows a few millimeters each year.",
+    "info": "Tectonic uplift slowly increases its height.",
+    "source": "National Geographic"
+  },
+  {
+    "fact": "Glass in windows does not 'flow' over centuries.",
+    "info": "Old panes are uneven due to historical manufacturing, not flow.",
+    "source": "American Physical Society"
+  },
+  {
+    "fact": "Humans share about 60% of their genes with bananas.",
+    "info": "Many fundamental cellular genes are conserved across life.",
+    "source": "National Human Genome Research Institute"
+  },
+  {
+    "fact": "Humans and chimpanzees share about 98–99% of their DNA sequences.",
+    "info": "Comparative genomics shows high sequence similarity.",
+    "source": "Nature"
+  },
+  {
+    "fact": "Your gut contains more microbial cells than human cells by count.",
+    "info": "Microbiome cell counts are roughly comparable or higher than human cells.",
+    "source": "Cell"
+  },
+  {
+    "fact": "Yawning can be contagious due to social and empathetic cues.",
+    "info": "Studies link susceptibility to empathy and social bonding.",
+    "source": "Royal Society Open Science"
+  },
+  {
+    "fact": "The placebo effect can produce measurable physiological changes.",
+    "info": "Expectation can modulate pain pathways and neurotransmitters.",
+    "source": "Harvard Medical School"
+  },
+  {
+    "fact": "The 'spotlight effect' makes us overestimate how much others notice us.",
+    "info": "People typically pay less attention to our mistakes than we think.",
+    "source": "Journal of Personality and Social Psychology"
+  },
+  {
+    "fact": "Memory is reconstructive and prone to distortion.",
+    "info": "Recalled memories can change with each retrieval (reconsolidation).",
+    "source": "Annual Review of Psychology"
+  },
+  {
+    "fact": "We are generally poor at multitasking.",
+    "info": "Task-switching causes performance costs and errors.",
+    "source": "American Psychological Association"
+  },
+  {
+    "fact": "The Dunning–Kruger effect describes how low performers overestimate their abilities.",
+    "info": "Metacognitive deficits can inflate self-assessments.",
+    "source": "Journal of Personality and Social Psychology"
+  },
+  {
+    "fact": "Phobias can be effectively treated with exposure therapy.",
+    "info": "Gradual exposure reduces fear responses through extinction learning.",
+    "source": "National Institute of Mental Health"
+  },
+  {
+    "fact": "Humans are biased to see faces in random patterns (pareidolia).",
+    "info": "Face-detection circuits fire even on ambiguous stimuli.",
+    "source": "Cortex"
+  },
+  {
+    "fact": "Laughter has health benefits including stress reduction.",
+    "info": "It can lower stress hormones and improve pain tolerance.",
+    "source": "Mayo Clinic"
+  },
+  {
+    "fact": "The 'Stroop effect' shows automaticity in reading.",
+    "info": "Naming ink colors is slower when word meanings conflict.",
+    "source": "Journal of Experimental Psychology"
+  },
+  {
+    "fact": "Hippocampus damage can impair new memory formation.",
+    "info": "Patient H.M. famously lost the ability to form new episodic memories.",
+    "source": "Nature Reviews Neuroscience"
+  },
+  {
+    "fact": "Ant colonies can act like a 'superorganism.'",
+    "info": "Collective behavior emerges from simple individual rules.",
+    "source": "Annual Review of Entomology"
+  },
+  {
+    "fact": "Spiders are not insects; they are arachnids.",
+    "info": "They have eight legs and two main body segments.",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "fact": "Jellyfish don’t have brains.",
+    "info": "They use a decentralized nerve net to coordinate movement.",
+    "source": "Smithsonian Ocean"
+  },
+  {
+    "fact": "Starfish can regenerate lost arms.",
+    "info": "Some species can regrow entire bodies from a single arm.",
+    "source": "Monterey Bay Aquarium"
+  },
+  {
+    "fact": "A hummingbird’s heart can beat over 1,000 times per minute.",
+    "info": "Rates vary by activity and species; very high during flight.",
+    "source": "National Audubon Society"
+  },
+  {
+    "fact": "Chameleons change color primarily for communication and temperature regulation.",
+    "info": "Not just camouflage; nanocrystal skin structures shift hues.",
+    "source": "Nature Communications"
+  },
+  {
+    "fact": "Hot water can freeze faster than cold under certain conditions (Mpemba effect).",
+    "info": "Phenomenon observed experimentally; mechanisms vary by setup.",
+    "source": "Royal Society of Chemistry"
+  },
+  {
+    "fact": "Liquid water has been detected on planets and moons beyond Earth.",
+    "info": "Evidence includes subsurface oceans on Europa and Enceladus.",
+    "source": "NASA"
+  },
+  {
+    "fact": "A day on Mercury includes two sunrises for each year.",
+    "info": "Its 3:2 spin–orbit resonance causes unusual solar motion.",
+    "source": "ESA"
+  },
+  {
+    "fact": "The largest living organism by area is a fungus.",
+    "info": "Armillaria in Oregon spans over 3 square miles underground.",
+    "source": "U.S. Forest Service"
+  },
+  {
+    "fact": "The Great Barrier Reef is the largest coral reef system.",
+    "info": "It stretches over 2,300 km along Australia’s coast.",
+    "source": "Great Barrier Reef Marine Park Authority"
+  },
+  {
+    "fact": "A water bear (tardigrade) can survive extreme conditions.",
+    "info": "Cryptobiosis lets them endure desiccation, radiation, and vacuum.",
+    "source": "Oxford University Press"
+  },
+  {
+    "fact": "The Sahara Desert was once green and wet.",
+    "info": "During the African Humid Period, lakes and grasslands covered it.",
+    "source": "Science (AAAS)"
+  },
+  {
+    "fact": "The oldest known written recipe is for beer.",
+    "info": "Sumerian tablets describe brewing processes over 4,000 years ago.",
+    "source": "University of Pennsylvania Museum"
+  },
+  {
+    "fact": "Paper was invented in ancient China.",
+    "info": "Traditionally credited to Cai Lun in 105 CE.",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "fact": "Gunpowder originated in China.",
+    "info": "It spread along trade routes to the Middle East and Europe.",
+    "source": "Royal Society of Chemistry"
+  },
+  {
+    "fact": "Zero as a number was developed in India.",
+    "info": "Indian mathematicians formalized zero and place-value notation.",
+    "source": "MacTutor History of Mathematics"
+  },
+  {
+    "fact": "The Rosetta Stone unlocked Egyptian hieroglyphs.",
+    "info": "Its trilingual text enabled decipherment by Champollion.",
+    "source": "British Museum"
+  },
+  {
+    "fact": "Machu Picchu was unknown to the outside world until 1911.",
+    "info": "Hiram Bingham publicized the Inca site internationally.",
+    "source": "Yale University / National Geographic"
+  },
+  {
+    "fact": "The Library of Alexandria was not destroyed in a single event.",
+    "info": "Its loss was gradual across multiple incidents and eras.",
+    "source": "Oxford Classical Dictionary"
+  },
+  {
+    "fact": "The Black Death drastically reshaped European societies.",
+    "info": "Mid-14th-century plague killed a large fraction of the population.",
+    "source": "Centers for Disease Control and Prevention"
+  },
+  {
+    "fact": "The printing press revolutionized information spread in Europe.",
+    "info": "Gutenberg’s movable type enabled mass production of texts.",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "fact": "Michelangelo’s David was carved from a single flawed marble block.",
+    "info": "Earlier sculptors abandoned it; Michelangelo completed it in 1504.",
+    "source": "Galleria dell’Accademia, Florence"
+  },
+  {
+    "fact": "Coffee originally spread from Ethiopia and Yemen to the world.",
+    "info": "The coffeehouse culture blossomed in the Ottoman Empire and Europe.",
+    "source": "National Coffee Association"
+  },
+  {
+    "fact": "Chocolate was consumed as a bitter drink in Mesoamerica.",
+    "info": "Sweetened solid chocolate developed later in Europe.",
+    "source": "Smithsonian Magazine"
+  },
+  {
+    "fact": "Newspaper 'lead' stories are named after typesetting lead, not the metal’s pronunciation.",
+    "info": "In journalism the spelling 'lede' distinguished it from the metal.",
+    "source": "American Journalism Review"
+  },
+  {
+    "fact": "A 'moment' historically meant 1/40 of an hour.",
+    "info": "In medieval timekeeping, a moment was 90 seconds.",
+    "source": "Oxford English Dictionary"
+  },
+  {
+    "fact": "Tennis scoring likely derives from the number 60 (sexagesimal system).",
+    "info": "Fifteen, thirty, forty (short for forty-five) reflect quarter-hours with later simplification.",
+    "source": "International Tennis Federation"
+  },
+  {
+    "fact": "The Olympic motto is 'Citius, Altius, Fortius'—'Faster, Higher, Stronger.'",
+    "info": "Updated in 2021 to include 'Communiter'—'Together.'",
+    "source": "International Olympic Committee"
+  },
+  {
+    "fact": "Snow isn’t always white; it can appear pink or red ('watermelon snow').",
+    "info": "Caused by algae like Chlamydomonas nivalis.",
+    "source": "U.S. National Park Service"
+  },
+  {
+    "fact": "A rainbow is a circle; we usually see only an arc.",
+    "info": "The horizon blocks the lower part; from aircraft full circles are visible.",
+    "source": "Royal Meteorological Society"
+  },
+  {
+    "fact": "You can sometimes see a 'moonbow'—a nighttime rainbow.",
+    "info": "It’s produced by moonlight refracting in raindrops.",
+    "source": "National Weather Service"
+  },
+  {
+    "fact": "Banana plants are giant herbs, not trees.",
+    "info": "Their 'trunk' is a pseudostem made of leaf bases.",
+    "source": "Kew Gardens"
+  },
+  {
+    "fact": "Avocados are berries with a single large seed.",
+    "info": "They meet the botanical definition of a berry.",
+    "source": "University of California Agriculture and Natural Resources"
+  },
+  {
+    "fact": "Onions make you cry by releasing syn-propanethial-S-oxide.",
+    "info": "It stimulates the eyes’ lachrymal glands.",
+    "source": "American Chemical Society"
+  },
+  {
+    "fact": "Chili peppers feel hot because of capsaicin activating TRPV1 receptors.",
+    "info": "It signals heat and pain despite no temperature change.",
+    "source": "Nature Reviews Neuroscience"
+  },
+  {
+    "fact": "Sourdough starter is a living culture of wild yeast and bacteria.",
+    "info": "Lactic acid bacteria contribute tangy flavor and leavening.",
+    "source": "King Arthur Baking / Food Microbiology"
+  },
+  {
+    "fact": "Popcorn pops when internal moisture turns to steam and ruptures the hull.",
+    "info": "Optimal popping occurs near 180–190 °C.",
+    "source": "American Chemical Society"
+  },
+  {
+    "fact": "Saturn’s rings are made mostly of ice.",
+    "info": "Particles range from micrometers to meters, largely water ice.",
+    "source": "NASA"
+  },
+  {
+    "fact": "Mars hosts the tallest volcano in the solar system.",
+    "info": "Olympus Mons stands ~22 km tall—almost three times Everest.",
+    "source": "NASA"
+  },
+  {
+    "fact": "Venus’s clouds produce acid rain.",
+    "info": "Its atmosphere contains sulfuric acid droplets, though they evaporate before hitting ground.",
+    "source": "European Space Agency"
+  },
+  {
+    "fact": "A day on Mercury is 59 Earth days long.",
+    "info": "That’s how long it takes to rotate relative to the Sun.",
+    "source": "NASA"
+  },
+  {
+    "fact": "Neptune’s winds are the fastest in the solar system.",
+    "info": "Speeds can exceed 2,000 km/h (1,200 mph).",
+    "source": "NASA"
+  },
+  {
+    "fact": "Some exoplanets rain glass sideways in supersonic winds.",
+    "info": "HD 189733b experiences such extreme weather.",
+    "source": "Nature"
+  },
+  {
+    "fact": "The universe’s expansion is accelerating.",
+    "info": "Driven by dark energy, discovered via distant supernova observations.",
+    "source": "Nobel Prize Committee"
+  },
+  {
+    "fact": "A spoonful of neutron star material weighs about a billion tons.",
+    "info": "Neutron star density is extraordinarily high.",
+    "source": "NASA"
+  },
+  {
+    "fact": "Climate change is causing faster mountain glacier melt.",
+    "info": "Warming trends drive glacier retreat worldwide.",
+    "source": "Intergovernmental Panel on Climate Change (IPCC)"
+  },
+  {
+    "fact": "The Arctic is warming twice as fast as the global average.",
+    "info": "This phenomenon is called Arctic amplification.",
+    "source": "NASA"
+  },
+  {
+    "fact": "Ocean acidification results from increased CO₂ absorption.",
+    "info": "Lowered pH can harm shell-forming marine life.",
+    "source": "NOAA"
+  },
+  {
+    "fact": "Urban areas can be several degrees warmer than rural surroundings.",
+    "info": "This is called the urban heat island effect.",
+    "source": "U.S. Environmental Protection Agency"
+  },
+  {
+    "fact": "The ozone hole over Antarctica forms each Southern Hemisphere spring.",
+    "info": "Chlorofluorocarbons (CFCs) catalyze ozone breakdown in cold stratospheric conditions.",
+    "source": "World Meteorological Organization"
+  },
+  {
+    "fact": "Trees can communicate through underground fungal networks.",
+    "info": "Known as the ‘wood wide web,’ they share nutrients and signals.",
+    "source": "University of British Columbia"
+  },
+  {
+    "fact": "Planting trees helps cool cities through shade and evapotranspiration.",
+    "info": "Urban forestry reduces cooling energy demands.",
+    "source": "U.S. Forest Service"
+  },
+  {
+    "fact": "Vaccination has eradicated smallpox worldwide.",
+    "info": "Declared eradicated in 1980 thanks to global vaccination campaigns.",
+    "source": "World Health Organization"
+  },
+  {
+    "fact": "Penicillin was discovered from a mold accidentally.",
+    "info": "Alexander Fleming noticed bacterial inhibition around Penicillium in 1928.",
+    "source": "Nobel Prize Committee"
+  },
+  {
+    "fact": "The first successful human organ transplant was a kidney in 1954.",
+    "info": "Performed between identical twins to avoid rejection.",
+    "source": "American Journal of Surgery"
+  },
+  {
+    "fact": "MRI uses magnetic fields and radio waves, not X-rays.",
+    "info": "It provides detailed images without ionizing radiation.",
+    "source": "Radiological Society of North America"
+  },
+  {
+    "fact": "CRISPR allows targeted gene editing.",
+    "info": "It enables precise modification of DNA sequences.",
+    "source": "Science (Jennifer Doudna & Emmanuelle Charpentier, Nobel Prize)"
+  },
+  {
+    "fact": "The first heart implant was a pacemaker in 1958.",
+    "info": "It regulated heartbeat when natural pacing failed.",
+    "source": "American Heart Association"
+  },
+  {
+    "fact": "X-rays were discovered in 1895 accidentally.",
+    "info": "Wilhelm Röntgen observed them while experimenting with cathode rays.",
+    "source": "Nobel Prize Committee"
+  },
+  {
+    "fact": "The polio vaccine nearly eradicated the disease worldwide.",
+    "info": "Developed by Jonas Salk (injectable) and Albert Sabin (oral).",
+    "source": "WHO"
+  },
+  {
+    "fact": "Pasteurization uses heat to kill harmful microbes in food.",
+    "info": "Developed by Louis Pasteur in the 19th century.",
+    "source": "Louvain Pasteur Institute"
+  },
+  {
+    "fact": "The first artificial satellite was Sputnik-1 (1957).",
+    "info": "Launched by the Soviet Union, beginning the space age.",
+    "source": "NASA"
+  },
+  {
+    "fact": "The first human in space was Yuri Gagarin (1961).",
+    "info": "He orbited Earth aboard Vostok-1.",
+    "source": "Roscosmos"
+  },
+  {
+    "fact": "The International Space Station has been continuously inhabited since 2000.",
+    "info": "A multinational orbiting laboratory supporting science.",
+    "source": "NASA"
+  },
+  {
+    "fact": "Wright brothers flew in 1903 with a gasoline engine-powered plane.",
+    "info": "The first controlled, powered flight was in December 1903.",
+    "source": "National Air and Space Museum"
+  },
+  {
+    "fact": "The first electronic computer was ENIAC (1945).",
+    "info": "It performed arithmetic calculations using vacuum tubes.",
+    "source": "Computer History Museum"
+  },
+  {
+    "fact": "The World Wide Web was invented in 1989 by Tim Berners-Lee.",
+    "info": "At CERN for sharing research information.",
+    "source": "CERN"
+  },
+  {
+    "fact": "A global positioning system (GPS) needs at least four satellites for a fix.",
+    "info": "Three for position, one for timing correction.",
+    "source": "U.S. Department of Defense"
+  },
+  {
+    "fact": "The first car with an assembly line was Ford’s Model T (1913).",
+    "info": "Assembly-line production drastically cut costs.",
+    "source": "Ford Motor Company"
+  },
+  {
+    "fact": "The first programmable logic controller (PLC) was created in 1968.",
+    "info": "Designed to replace relay logic in industrial control.",
+    "source": "IEEE"
+  },
+  {
+    "fact": "The Hoover Dam is among the largest concrete structures.",
+    "info": "Constructed in the 1930s across the Colorado River.",
+    "source": "U.S. Bureau of Reclamation"
+  },
+  {
+    "fact": "The Eiffel Tower was built as an engineering marvel for the 1889 Exposition.",
+    "info": "Designed by Gustave Eiffel.",
+    "source": "Tour Eiffel"
+  },
+  {
+    "fact": "The Panama Canal uses a lock system instead of a sea-level passage.",
+    "info": "Ships are lifted and lowered between ocean and lake levels.",
+    "source": "Panama Canal Authority"
+  },
+  {
+    "fact": "The first liquid-fueled rocket was launched by Robert Goddard in 1926.",
+    "info": "Paved the way for modern rocketry.",
+    "source": "Smithsonian Air and Space Museum"
+  },
+  {
+    "fact": "The first artificial neural network was the perceptron (1958).",
+    "info": "Developed by Frank Rosenblatt.",
+    "source": "Cornell University archives"
+  },
+  {
+    "fact": "LEDs were first practical in the 1960s.",
+    "info": "The first visible-spectrum (red) LEDs appeared in 1962.",
+    "source": "IEEE"
+  },
+  {
+    "fact": "The first smartphone prototype (IBM Simon) debuted in 1994.",
+    "info": "Combined PDA and mobile phone features.",
+    "source": "IBM"
+  },
+  {
+    "fact": "The first voicemail system was invented in 1979.",
+    "info": "Created by Gordon Matthews.",
+    "source": "U.S. Patent Office"
+  },
+  {
+    "fact": "The first email spam was sent in 1978.",
+    "info": "Promoting a product to ARPANET users.",
+    "source": "Computer History Museum"
+  },
+  {
+    "fact": "The first image uploaded to the web was a photo of Les Horribles Cernettes.",
+    "info": "Uploaded by Tim Berners-Lee in 1992.",
+    "source": "CERN"
+  },
+  {
+    "fact": "Concrete gets stronger over time due to ongoing chemical reactions.",
+    "info": "Hydration of cement continues for decades.",
+    "source": "Portland Cement Association"
+  },
+  {
+    "fact": "The Tacoma Narrows Bridge collapsed due to aeroelastic flutter (1930).",
+    "info": "Design couldn’t damp out wind-induced oscillations.",
+    "source": "American Society of Civil Engineers"
+  },
+  {
+    "fact": "Fiber optics transmit data via light through glass fibers.",
+    "info": "They use total internal reflection for very fast communication.",
+    "source": "Corning Incorporated"
+  },
+  {
+    "fact": "The first barcode was invented in 1949.",
+    "info": "Used to automate toll booths.",
+    "source": "U.S. Patent Office"
+  },
+  {
+    "fact": "The magnetic levitation (maglev) train uses magnets to float above tracks.",
+    "info": "Reduces friction for high-speed transport.",
+    "source": "Central Japan Railway Company"
+  },
+  {
+    "fact": "The first lunar module landed on the moon in 1969 (Apollo 11).",
+    "info": "Named Eagle; Neil Armstrong first stepped out.",
+    "source": "NASA"
+  },
+  {
+    "fact": "Modern jet engines operate on Brayton cycle thermodynamics.",
+    "info": "They compress, ignite, and expand air for thrust.",
+    "source": "Rolls-Royce"
+  },
+  {
+    "fact": "The bullet train (Shinkansen) began operations in Japan in 1964.",
+    "info": "Connected Tokyo and Osaka.",
+    "source": "Japan Railways Group"
+  },
+  {
+    "fact": "Renewable energy share in global electricity is steadily rising.",
+    "info": "Driven by solar, wind, and hydro growth.",
+    "source": "International Energy Agency"
+  },
+  {
+    "fact": "3D printing builds objects layer by layer from digital models.",
+    "info": "Used in prototyping, medical implants, and manufacturing.",
+    "source": "MIT Technology Review"
+  },
+  {
+    "fact": "The first operating system with a graphical user interface was the Xerox Alto (1973).",
+    "info": "Inspired future GUIs like those at Apple and Microsoft.",
+    "source": "Xerox PARC"
+  },
+  {
+    "fact": "The transistor was invented in 1947 at Bell Labs.",
+    "info": "It revolutionized electronics by replacing vacuum tubes.",
+    "source": "Nobel Prize Committee"
+  },
+  {
+    "fact": "Bluetooth was originally intended as a wireless headset standard.",
+    "info": "It evolved into a multipurpose short-range wireless protocol.",
+    "source": "Bluetooth SIG"
+  },
+  {
+    "fact": "The first commercial computer hard drive (IBM 305 RAMAC) was released in 1956.",
+    "info": "Had a 5 MB capacity and weighed over a ton.",
+    "source": "Computer History Museum"
+  },
+  {
+    "fact": "Touchscreens date back to the 1960s (E.A. Johnson).",
+    "info": "Resistive and capacitive technologies evolved from early research.",
+    "source": "Nature"
+  },
+  {
+    "fact": "Hovercraft travel on a cushion of air beneath them.",
+    "info": "Also known as air-cushion vehicles.",
+    "source": "British Hovercraft Corporation"
+  },
+  {
+    "fact": "Invented in 1914, plastic was originally called 'Bakelite.'",
+    "info": "The first fully synthetic polymer.",
+    "source": "Smithsonian Institution"
+  },
+  {
+    "fact": "The Hyperloop concept proposes near-supersonic travel in vacuum tubes.",
+    "info": "First proposed by Elon Musk in 2013.",
+    "source": "SpaceX"
+  },
+  {
+    "fact": "The first powered flight by a jet engine was by Heinkel He 178 (1939).",
+    "info": "German aircraft, early gas turbine-powered flight.",
+    "source": "Deutsche Luftfahrt-Bibliothek"
+  },
+  {
+    "fact": "Ultrasound imaging uses high-frequency sound to visualize organs.",
+    "info": "Widely used for fetal imaging and diagnostics.",
+    "source": "Radiological Society of North America"
+  },
+  {
+    "fact": "The stethoscope was invented in 1816 by René Laennec.",
+    "info": "Originally a wooden tube before evolving into modern versions.",
+    "source": "British Medical Journal"
+  },
+  {
+    "fact": "Insulin therapy for diabetes began in 1922.",
+    "info": "Developed by Banting and Best.",
+    "source": "Canadian Medical Association Journal"
+  },
+  {
+    "fact": "Anesthesia revolutionized surgery in the mid-19th century.",
+    "info": "Ether and chloroform allowed painless operations.",
+    "source": "Journal of the American Medical Association"
+  },
+  {
+    "fact": "The first antibiotic used widely was penicillin in the 1940s.",
+    "info": "It dramatically reduced deaths from bacterial infections.",
+    "source": "Centers for Disease Control and Prevention"
+  },
+  {
+    "fact": "Suture materials date back thousands of years, including silk and catgut.",
+    "info": "Ancient surgeons used natural fibers long before synthetic options.",
+    "source": "World Health Organization"
+  },
+  {
+    "fact": "Robotic surgery (e.g. da Vinci system) enables minimally invasive procedures.",
+    "info": "Surgeons control robotic arms for precision.",
+    "source": "FDA"
+  },
+  {
+    "fact": "X-rays can also treat certain cancers as radiotherapy.",
+    "info": "High-energy electromagnetic radiation targets tumors.",
+    "source": "American Cancer Society"
   }
 ]
