@@ -68,16 +68,16 @@ document.addEventListener('DOMContentLoaded', () => {
 
   function render(f) {
     if (!f) return;
-    if (factEl) factEl.textContent = f.fact || '';
-    if (infoEl) {
-      infoEl.textContent = f.info || '';
-      infoEl.style.display = f.info ? 'block' : 'none';
-    }
-    if (sourceEl) {
-      sourceEl.textContent = f.source || '';
-      sourceEl.style.display = f.source ? 'block' : 'none';
-    }
-    if (cardEl) cardEl.setAttribute('aria-busy', 'false');
+
+    factEl.textContent = f.fact || '';
+
+    infoEl.textContent = f.info || '';
+    infoEl.style.display = f.info ? 'block' : 'none';
+
+    sourceEl.textContent = f.source || '';
+    sourceEl.style.display = f.source ? 'block' : 'none';
+
+    cardEl.setAttribute('aria-busy', 'false');
   }
 
   function show() {
@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   async function load() {
-    if (cardEl) cardEl.setAttribute('aria-busy', 'true');
+    cardEl.setAttribute('aria-busy', 'true');
     try {
       const url =
         typeof chrome !== 'undefined' && chrome.runtime && chrome.runtime.getURL
@@ -95,19 +95,10 @@ document.addEventListener('DOMContentLoaded', () => {
       facts = await res.json();
       show();
     } catch (e) {
-      if (factEl) factEl.textContent = 'Unable to load facts.';
-      if (cardEl) cardEl.setAttribute('aria-busy', 'false');
+      factEl.textContent = 'Unable to load facts.';
+      cardEl.setAttribute('aria-busy', 'false');
     }
   }
-
-  if (nextBtn) nextBtn.addEventListener('click', show);
-  if (refreshBtn) refreshBtn.addEventListener('click', show);
-  document.addEventListener('keydown', (e) => {
-    if (e.code === 'Space' || e.code === 'Enter') {
-      e.preventDefault();
-      show();
-    }
-  });
 
   setRandomBackground();
   load();

@@ -15,17 +15,7 @@ A Chrome extension that displays random fun facts on every new tab with cute ani
 
 ## 🚀 Installation
 
-### Method 1: Load as Unpacked Extension (Development)
-
-1. Clone or download this repository
-2. Open Chrome and navigate to `chrome://extensions/`
-3. Enable "Developer mode" in the top right corner
-4. Click "Load unpacked" and select the project folder
-5. The extension will now replace your new tab page with random facts!
-
-### Method 2: Install from Chrome Web Store (Coming Soon)
-
-_This extension will be available on the Chrome Web Store soon._
+### Install from Chrome Web Store: [Click Here](https://chromewebstore.google.com/detail/nmmicbgmlilkklipbgacjpkjekdifmbb?utm_source=item-share-cb)
 
 ## 🎯 How to Use
 

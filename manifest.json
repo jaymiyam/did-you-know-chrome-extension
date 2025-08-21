@@ -1,9 +1,9 @@
 {
-	"manifest_version": 3,
-	"name": "Did you know",
-	"version": "1.0.0",
-	"description": "Displays a random fun fact on every new tab.",
-	"chrome_url_overrides": {
-		"newtab": "newtab.html"
-	}
+  "manifest_version": 3,
+  "name": "#didyouknow?",
+  "version": "1.0.0",
+  "description": "A random fun fact and cute animal on every new tab.",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  }
 }
